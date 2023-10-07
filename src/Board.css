@@ -1,0 +1,9 @@
+.board{
+  height: 640px;
+  width: 640px;
+}
+
+.error{
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 6px;
+}
